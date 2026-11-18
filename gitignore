@@ -7,3 +7,6 @@ dist/
 venv/
 .idea/
 .vscode/
+Miniplayer.ico
+Miniplayer.spec
+dist/
